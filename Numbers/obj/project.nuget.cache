@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvrXwo9P6UwhyJIfDtJap/MnXkLOdKvf5kWQ8nR11y9KtJFxpWmqjlv7NY94DIbD5UguOYl+9ONqhlHU5qLSVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joonas\\source\\repos\\Numbers\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
